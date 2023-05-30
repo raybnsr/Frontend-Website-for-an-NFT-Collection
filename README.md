@@ -2,7 +2,7 @@
     <img align="center" src="/demo.gif" width="175"></img>
 </p>
 
-<h2 align="center">stackup-polyaliens-minting-dapp</h1>
+<h2 align="center">Raybnsr-Polyaliens-Minting-dApp</h1>
 
 <div align="center">
     🌐 Website: https://stackup-polyaliens.netlify.app/
