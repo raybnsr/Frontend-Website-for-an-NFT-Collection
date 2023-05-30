@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x16e47d507819E067F63c024aaC858f18b2874856",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x16e47d507819E067F63c024aaC858f18b2874856",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "PolyAliens",
+  "SYMBOL": "PA",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea Testnets",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/stackie123-polyaliens",
+  "SHOW_BACKGROUND": false
+}
